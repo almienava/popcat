@@ -1,9 +1,9 @@
 
 # PopCat Bot
 
-Mari kita Push Indonesia menjadi Nomor 1 di Dunia!!!
+Let's Push Indonesia to be Number 1 in the World!!!
 
-## Cara Install
+## How Installation
 
 ```bash
   git clone https://github.com/almienava/popcat
@@ -15,10 +15,9 @@ Mari kita Push Indonesia menjadi Nomor 1 di Dunia!!!
 
 ## Notes
 
-Wajib install chrome di laptop nya, jika menggunakan vps pilih IP Indonesia agar menjadi nomor 1
+Must install chrome on the laptop, if using a VPS select an Indonesian IP to become number 1!
 
 
+## Feedback
 
-## Authors
-
-- [@Almi](https://www.facebook.com/KodoC015/)
+If you have any feedback, please reach out to us at haldad.almi@gmail.com
